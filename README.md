@@ -163,3 +163,7 @@ Shops are the major contributors to soft drink distribution, with the highest co
 - Fayrouz and other niche brands have minimal presence and require targeted distribution strategies.
 
 
+**Enoch Amoo**
+_Data Scientist_ and _Data Analyst-
+[GitHub Profile](https://github.com/Yinka0567)
+[LinkedIn Profile](https://www.linkedin.com/in/amoo-enoch)
